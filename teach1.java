@@ -3,6 +3,7 @@ class teach1{
 
         System.out.print ("Hello World");
                 System.out.print ("Hello jie jie");
+                System.out.println("Hello 1 people");
         
     }
 }
